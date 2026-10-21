@@ -1,5 +1,7 @@
 # testcontainers-cloud-java-example
 
+Requires JDK 25 (the current Java LTS) and the Maven wrapper included in this repository.
+
 This is an example repository with a simple test confirming proper connection from Testcontainers Desktop (or the CI agent) to your [Testcontainers Cloud](https://app.testcontainers.cloud) account.
 For details on how to bootstrap Testcontainers in an actual project, please refer to the [Testcontainers Java Quickstart](https://github.com/testcontainers/testcontainers-java-spring-boot-quickstart).
 
